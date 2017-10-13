@@ -1,1 +1,0 @@
-my bew test.txt
